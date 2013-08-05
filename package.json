@@ -1,0 +1,18 @@
+{
+  "name": "preacher-api",
+  "version": "0.0.1",
+  "description": "Nodejitsu Preacher API client wrapper",
+  "main": "./lib/client.js",
+  "scripts": {
+    "test": "vows --spec -i ./test/client/*-test.js"
+  },
+  "author": "Nodejitsu Inc",
+  "license": "MIT",
+  "devDependencies": {
+    "vows": "~0.7.0",
+    "nock": "~0.22.1"
+  },
+  "dependencies": {
+    "request": "~2.25.0"
+  }
+}
