@@ -13,6 +13,8 @@
     "nock": "~0.22.1"
   },
   "dependencies": {
-    "request": "~2.25.0"
+    "request": "~2.25.0",
+    "primus": "git://github.com/3rd-Eden/primus.git#master",
+    "ws": "git://github.com/jcrugzz/ws.git#fix-basic-auth"
   }
 }
