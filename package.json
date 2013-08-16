@@ -16,5 +16,6 @@
     "request": "~2.25.0",
     "primus": "~1.1.3",
     "ws": "git://github.com/jcrugzz/ws.git#fix-basic-auth"
-  }
+  },
+  "bundledDependencies": [ "ws "]
 }
