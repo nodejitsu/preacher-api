@@ -1,6 +1,6 @@
 {
   "name": "preacher-api",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Nodejitsu Preacher API client wrapper",
   "main": "./lib/client.js",
   "scripts": {
